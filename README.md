@@ -1,0 +1,2 @@
+# Doppler-Compensated-Demodulation-and-Noise-Suppression-of-a-LEO-Satellite-Downlink-QPSK-
+Here is the Matlab code for the ''Doppler-Compensated Demodulation and Noise Suppression of a LEO Satellite Downlink (QPSK)'', you can download all the MATLAB files and run them in your PC, the information about running the files and interpreting the results is given in both the Readme file and the Report attached with this repo
